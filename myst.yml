@@ -1,25 +1,28 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Hackathon Template Github
-  description: Github Pages based template for hackathons
+  title: Aerosol Cloud Interactions Deposition (ACID)
+  description: Aerosol Cloud Interactions Deposition (ACID) project from the 2025 ARM Summer School
   # keywords: []
   authors:
-    - name: Instructor Name
-      orcid: XXXX-XXXX-XXXX-XXXX
-      github: username
-  github: https://github.com/hackthackathon/hackathon-template-github
+    - name: Shy Afandor
+    - name: Hasnaa Hossam
+    - name: Lucas Hornung
+    - name: Shujun Zhou
+    - name: Shan Gu
+    - name: Shreya Joshi
+    - name: Mirtha Allain
+    - name: Ruoyu Zhang
+    - name: Sid Gupta
+    - name: Sean Freeman 
+    - name: Chongai Kuang
+    - name: Bill Gustafson
+  github: https://github.com/ARM-Synergy/aerosol-cloud-interactions-deposition
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Organizing Preparation
-      children:
-        - file: organizers/getting-started.md
-        - file: organizers/organizing-checklist.md
-        - file: organizers/survey-template.md
-    - title: Projects
-      children:
-        - pattern: 'projects/project-*'
+    - file: FinalNotebook.ipynb
+    - file: presentation.ipynb
 site:
   template: book-theme
   # Modify this section with the logos of your choice
