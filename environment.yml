@@ -1,7 +1,14 @@
-name: hackathon-template-github-dev
+name: aerosol-cloud-interactions-deposition-dev
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - mystmd
   - cookiecutter
+  - act-atmos
+  - cftime
+  - xarray
+  - matplotlib
+  - metpy
+  - tobac
+  - arm_pyart
