@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use the findings and workflows, please cite it as below."
+authors:
+  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names: H. Abo Shosha
+    given-names: Hasnaa
+    orcid: https://orcid.org/0009-0003-0494-0278 # optional
+    affiliation: Michigan Technological University
+  - family-names: Hornung
+    given-names: Lucas
+    orcid: https://orcid.org/0009-0009-9145-8730 # optional
+    affiliation: UC Davis
+  - family-names: Zhou
+    given-names: Shujun
+    orcid: https://orcid.org/0009-0003-3080-6830 # optional
+    affiliation: University of Maryland, College Park
+  - family-names: Gu
+    given-names: Shan
+    orcid: https://orcid.org/0000-0002-9980-429X # optional
+    affiliation: University of California - Berkeley
+  - family-names: Joshi
+    given-names: Shreya
+    orcid: https://orcid.org/0000-0003-2641-1476 # optional
+    affiliation: Michigan Technological University
+  - family-names: Allain
+    given-names: Mirtha
+    orcid: https://orcid.org/0000-0001-6731-0888 # optional
+    affiliation: Brookhaven National Laboratory
+  - family-names: Zhang
+    given-names: Ruoyu
+    orcid: https://orcid.org/0009-0000-0932-4050 # optional
+    affiliation: The University of Miami (Florida)
+  - family-names: Afanador
+    given-names: Shyheim
+    affiliation: United States Air Force
+  - family-names: Gupta
+    given-names: Siddhant
+    orcid: https://orcid.org/0000-0002-0663-4595 # optional
+    affiliation: Argonne National Laboratory
+  - family-names: Freeman
+    given-names: Sean
+    orcid: https://orcid.org/0000-0002-7398-1597 # optional
+    affiliation: The University of Alabama in Huntsville
+  - family-names: Kuang
+    given-names: Chongai
+    orcid: https://orcid.org/0000-0003-2769-771X # optional
+    affiliation: Brookhaven National Laboratory
+  - family-names: Gustafson
+    given-names: William
+    orcid: https://orcid.org/0000-0001-9927-1393 # optional
+    affiliation: Pacific Northwest National Laboratory
+
